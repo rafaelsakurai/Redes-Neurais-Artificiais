@@ -2,9 +2,10 @@
 
 As implementações são com base nos algoritmos apresentados no livro **Redes Neurais Artificiais Para Engenharia E Ciências Aplicadas** do Ivan Nunes da Silva, Danilo Hernane Spatti e Rogério Andrade Flauzino.
 
-## Adaline
-## Perceptron
-## Perceptron Multicamadas
+Implementado:
+* Adaline
+* Perceptron
+* Perceptron Multicamadas
 
 Falta implementar:
 * Redes de funções de base radial
